@@ -1,0 +1,15 @@
+bitcoin-trader-sentiment-analysis/
+│
+├── data/
+│   ├── sentiment.csv
+│   ├── trader.csv
+│
+├── notebook/
+│   └── analysis.ipynb
+│
+├── outputs/
+│   ├── pnl_by_sentiment.png
+│   ├── win_rate.png
+│   ├── long_short_ratio.png
+│
+├── README.md
